@@ -1,0 +1,57 @@
+.orientation
+{
+	display: block;
+    text-align: center;
+}
+
+.position
+{
+	margin-top: 50px; 
+}
+
+.space
+{
+	margin-top: 20px; 
+}
+
+.wallpaper
+{
+background-color:black;
+background-image:
+radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
+background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+}
+
+.bar
+{
+	background: #F5DA81;
+}
+
+.wrap
+{
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+
+#footer
+{
+	text-align: center;
+	color: white;
+	
+}
+
+.foot-space
+{
+	padding-top: 10px;
+	padding-bottom: 40px;
+}
+
+.sesion
+{
+	padding-top: 15px;
+}
